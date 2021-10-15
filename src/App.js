@@ -7,9 +7,9 @@ import SigninPage from "./pages/Signin";
 const App = () => {
     return (
         <div className='App'>
-            <Home/>
             <Switch>
-                <Route path='/signin' component={SigninPage} exact/>
+                <Route path='/' exact component={Home} />
+                <Route path='/signin' exact component={SigninPage} />
             </Switch>
         </div>
     );
