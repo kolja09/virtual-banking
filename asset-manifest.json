@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/virtual-banking/static/css/main.3b898e3a.chunk.css",
-    "main.js": "/virtual-banking/static/js/main.103cdf04.chunk.js",
-    "main.js.map": "/virtual-banking/static/js/main.103cdf04.chunk.js.map",
+    "main.js": "/virtual-banking/static/js/main.81391029.chunk.js",
+    "main.js.map": "/virtual-banking/static/js/main.81391029.chunk.js.map",
     "runtime-main.js": "/virtual-banking/static/js/runtime-main.33aeb001.js",
     "runtime-main.js.map": "/virtual-banking/static/js/runtime-main.33aeb001.js.map",
     "static/js/2.996c76b6.chunk.js": "/virtual-banking/static/js/2.996c76b6.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.33aeb001.js",
     "static/js/2.996c76b6.chunk.js",
     "static/css/main.3b898e3a.chunk.css",
-    "static/js/main.103cdf04.chunk.js"
+    "static/js/main.81391029.chunk.js"
   ]
 }
